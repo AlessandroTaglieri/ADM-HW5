@@ -26,6 +26,7 @@ The homework is divided into eight parts:
 Our Repository contains the following files:
 * **main.ipynb:**
 It contains all exercises and all choises that we made to solve every exercise.
+There are all four functionalities and respecitve visualizations.
 * **README.md:**
 Containing the explanation of the content of the repository </br>
 
