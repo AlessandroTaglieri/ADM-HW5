@@ -22,6 +22,7 @@ The homework is divided into eight parts:
 * **Visualization 3 - Visualize the Shortest Ordered Route**
 * **Visualization 4 - Visualize the Shortest Route**
 
+In main.ipynb we expalin every choice that we made during all exercises.
 
 ### Repository Structure
 
